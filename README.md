@@ -1,1 +1,1 @@
-![CV](./ERMAKOV_CV_design.pdf) 
+# Скачайте резюме в обозревателе выше или через кнопку code/download
