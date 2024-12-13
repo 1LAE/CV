@@ -1,1 +1,1 @@
-![CV](./ERMAKOV_CV-2.png) 
+![CV](./ERMAKOV_CV_design.pdf) 
